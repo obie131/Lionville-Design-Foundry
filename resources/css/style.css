@@ -1,3 +1,10 @@
 body{
   font: Helvetica;
+
+}
+header{
+	text-align: center;
+	background-color: #056727;
+	color: black;
+	
 }
